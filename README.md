@@ -1,6 +1,6 @@
-# Hello World! Sou a Gabriela Montanhini
+# Hello World! Sou Gabriela Montanhini de Oliveira
 
-## Eu acredito em soluções inteligentes para transformar o mundo em um lugar melhor, através da tecnologia. 
+## Eu acredito em soluções inteligentes, através da tecnologia, para transformar o mundo em um lugar melhor.
 
 
 
