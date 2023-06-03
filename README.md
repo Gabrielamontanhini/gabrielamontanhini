@@ -4,7 +4,7 @@
 
 
 <ul>
-<li>:seedling: Atualmente estou aprendendo React, Desenvolvimento Mobile e de tudo um pouco! :iphone: </li>
+<li>:seedling: Atualmente estou aprendendo Banco de dados SQL, Prisma e React Native :iphone: </li>
 <li>:zap: Falo português e inglês</li>
 <li>:sunny: Sou uma exploradora, uma realizadora. Os meus sonhos eu transformei em metas</li>
 
