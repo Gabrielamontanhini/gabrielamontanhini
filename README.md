@@ -1,6 +1,6 @@
 # Olá! Eu sou a Gabriela! 
 
- Estou estudando Desenvolvimento Fullstack. Eu acredito que a tecnologia pode transformar o mundo em um lugar melhor e estou interessada em participar disso. 
+ Sou Desenvolvedora Fullstack Web e Mobile. Eu acredito que a tecnologia pode transformar o mundo em um lugar melhor e estou interessada em participar disso. 
 
 
 <ul>
